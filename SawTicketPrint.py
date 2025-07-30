@@ -14,9 +14,13 @@
 #   You should have received a copy of the GNU General Public License
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
-#   Requirements
-#   Install Python https://www.python.org/
-# 
+#   Program requirements:
+#
+#   1. Download and install Python https://www.python.org/downloads/
+#   2. Open command prompt and run the following:  pip install tkcalendar reportlab
+#   3. Copy SawTicketPrint.py AND SawTicketPrint.bat to the same directory
+#   4. Create a shortcut of SawTicketPrint.bat and place shortcut on desktop
+#
 
 import tkinter as tk
 from tkinter import messagebox
